@@ -1,0 +1,12 @@
+.vs
+*.idb
+*.pdb
+*.ilk
+*.log
+*.vcxproj*
+*.tlog
+*.obj
+*.recipe
+*.exe
+*.sln
+*_bld*
