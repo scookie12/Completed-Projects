@@ -1,0 +1,102 @@
+Grid size: 10 x 10
+Nodes: 30
+Edges: 28
+
+Initial placement:
+Node 0 at (0,0)
+Node 1 at (1,0)
+Node 2 at (2,0)
+Node 3 at (3,0)
+Node 4 at (4,0)
+Node 5 at (5,0)
+Node 6 at (6,0)
+Node 7 at (7,0)
+Node 8 at (8,0)
+Node 9 at (9,0)
+Node 10 at (0,1)
+Node 11 at (1,1)
+Node 12 at (2,1)
+Node 13 at (3,1)
+Node 14 at (4,1)
+Node 15 at (5,1)
+Node 16 at (6,1)
+Node 17 at (7,1)
+Node 18 at (8,1)
+Node 19 at (9,1)
+Node 20 at (0,2)
+Node 21 at (1,2)
+Node 22 at (2,2)
+Node 23 at (3,2)
+Node 24 at (4,2)
+Node 25 at (5,2)
+Node 26 at (6,2)
+Node 27 at (7,2)
+Node 28 at (8,2)
+Node 29 at (9,2)
+
+Initial score: 120
+
+Explored 18412 solutions
+Final score: 37
+
+Final placement:
+Node 0 placed at (6,7)
+Node 1 placed at (5,6)
+Node 2 placed at (3,3)
+Node 3 placed at (4,3)
+Node 4 placed at (0,7)
+Node 5 placed at (1,9)
+Node 6 placed at (2,6)
+Node 7 placed at (1,7)
+Node 8 placed at (6,4)
+Node 9 placed at (5,3)
+Node 10 placed at (7,6)
+Node 11 placed at (7,4)
+Node 12 placed at (1,4)
+Node 13 placed at (0,5)
+Node 14 placed at (6,6)
+Node 15 placed at (3,6)
+Node 16 placed at (5,7)
+Node 17 placed at (4,4)
+Node 18 placed at (1,8)
+Node 19 placed at (2,7)
+Node 20 placed at (5,4)
+Node 21 placed at (7,5)
+Node 22 placed at (1,5)
+Node 23 placed at (4,6)
+Node 24 placed at (4,7)
+Node 25 placed at (2,8)
+Node 26 placed at (5,5)
+Node 27 placed at (3,5)
+Node 28 placed at (3,7)
+Node 29 placed at (4,5)
+
+Edge Lengths:
+Edge 0: 0 to 16 has length 1
+Edge 1: 1 to 16 has length 1
+Edge 2: 2 to 17 has length 2
+Edge 3: 3 to 17 has length 1
+Edge 4: 4 to 18 has length 2
+Edge 5: 5 to 18 has length 1
+Edge 6: 6 to 19 has length 1
+Edge 7: 7 to 19 has length 1
+Edge 8: 8 to 20 has length 1
+Edge 9: 9 to 20 has length 1
+Edge 10: 10 to 21 has length 1
+Edge 11: 11 to 21 has length 1
+Edge 12: 12 to 22 has length 1
+Edge 13: 13 to 22 has length 1
+Edge 14: 14 to 23 has length 2
+Edge 15: 15 to 23 has length 1
+Edge 16: 16 to 24 has length 1
+Edge 17: 17 to 24 has length 3
+Edge 18: 18 to 25 has length 1
+Edge 19: 19 to 25 has length 1
+Edge 20: 20 to 26 has length 1
+Edge 21: 21 to 26 has length 2
+Edge 22: 22 to 27 has length 2
+Edge 23: 23 to 27 has length 2
+Edge 24: 24 to 28 has length 1
+Edge 25: 25 to 28 has length 2
+Edge 26: 26 to 29 has length 1
+Edge 27: 27 to 29 has length 1

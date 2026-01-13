@@ -1,0 +1,6 @@
+DATE = "12:42:16 October 25, 2025"
+QUARTUS_VERSION = "16.0.0"
+
+# Revisions
+
+PROJECT_REVISION = "FIFO"
