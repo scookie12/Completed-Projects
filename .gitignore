@@ -10,3 +10,43 @@
 *.exe
 *.sln
 *_bld*
+
+# -------------------------
+# Quartus / Intel FPGA
+# -------------------------
+db/
+incremental_db/
+output_files/
+simulation/
+tmp/
+
+# Quartus generated reports / logs
+*.rpt
+*.summary
+*.smsg
+*.qws
+*.qdf
+
+# Programming / bitstream files (usually generated)
+*.sof
+*.pof
+*.jic
+*.rbf
+
+# Netlists / intermediate outputs
+*.edf
+*.vo
+*.vho
+*.vqm
+
+# ModelSim / simulation generated
+vsim.wlf
+work/
+transcript
+*.vcd
+
+# -------------------------
+# OS / editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
